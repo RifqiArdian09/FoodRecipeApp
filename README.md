@@ -29,7 +29,7 @@ Aplikasi Android untuk menampilkan berbagai resep makanan menggunakan data dari 
 
 1. Clone repo ini:
    ```bash
-   git clone https://github.com/username/foodrecipeapp.git
+   https://github.com/RifqiArdian09/FoodRecipeApp.git
    ```
 2. Buka dengan Android Studio
 3. Pastikan koneksi internet aktif (API ini menggunakan akses online)
