@@ -22,11 +22,11 @@ Aplikasi Android untuk menampilkan berbagai resep makanan menggunakan data dari 
 ## 🖼️ Tampilan Aplikasi Hadirin
 
 ### 🏠 Halaman Home
-![Tampilan Home](https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/home.jpg)
+<p align="center"> <img src="https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/home.jpg" alt="Home" width="300"/> </p>
 ### 🏠 Halaman category
-![Tampilan Home](https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/category.jpg)
+<p align="center"> <img src="https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/category.jpg" alt="Category" width="300"/> </p>
 ### 🏠 Halaman detail
-![Tampilan Home](https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/detail.jpg)
+<p align="center"> <img src="https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/detail.jpg" alt="Detail" width="300"/> </p>
 
 
 ## 🛠️ Cara Menjalankan
