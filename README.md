@@ -19,15 +19,11 @@ Aplikasi Android untuk menampilkan berbagai resep makanan menggunakan data dari 
 - Material Components
 - TheMealDB (API gratis)
 
-## 🖼️ Tampilan Aplikasi Hadirin
+## 🖼️ Tampilan Aplikasi
 
-### 🏠 Halaman Home
-<p align="center"> <img src="https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/home.jpg" alt="Home" width="300"/> </p>
-### 🏠 Halaman category
-<p align="center"> <img src="https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/category.jpg" alt="Category" width="300"/> </p>
-### 🏠 Halaman detail
-<p align="center"> <img src="https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/detail.jpg" alt="Detail" width="300"/> </p>
-
+| 🏠 Home | 🍽️ Kategori | 📖 Detail Resep |
+|--------|-------------|----------------|
+| <img src="https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/home.jpg" width="250"/> | <img src="https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/category.jpg" width="250"/> | <img src="https://github.com/RifqiArdian09/FoodRecipeApp/blob/master/app/src/main/res/screenshots/detail.jpg" width="250"/> |
 
 ## 🛠️ Cara Menjalankan
 
