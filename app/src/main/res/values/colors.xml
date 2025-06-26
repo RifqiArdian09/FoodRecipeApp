@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Material Design Default Colors -->
     <color name="purple_200">#FFBB86FC</color>
     <color name="purple_500">#FF6200EE</color>
     <color name="purple_700">#FF3700B3</color>
@@ -8,13 +9,18 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <!-- App Color Scheme -->
 
-    <color name="colorPrimary">#FF7043</color>
-    <color name="colorBackground">#FFF8E1</color>
-    <color name="colorTitleText">#4E342E</color>
-    <color name="colorBodyText">#424242</color>
+    <!-- Add these if missing -->
+
     <color name="colorWhite">#FFFFFF</color>
 
-
-
+    <color name="colorPrimary">#FF7043</color>      <!-- Orange -->
+    <color name="colorPrimaryDark">#E64A19</color>  <!-- Dark Orange -->
+    <color name="colorAccent">#A8C686</color>       <!-- Sage Green -->
+    <color name="colorBackground">#FFF8E1</color>   <!-- Cream -->
+    <color name="colorTitleText">#4E342E</color>    <!-- Dark Brown -->
+    <color name="colorBodyText">#424242</color>     <!-- Dark Gray -->
+    <color name="colorPrimaryLight">#FFA270</color> <!-- Light Orange -->
+    <color name="colorError">#B00020</color>        <!-- Error Red -->
 </resources>
